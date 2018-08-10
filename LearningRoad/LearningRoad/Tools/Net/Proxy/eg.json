@@ -1,0 +1,1104 @@
+{
+  "className" : "AskSolution",
+  "errCode" : 0,
+  "errString" : "123457890",
+  "hasNewMsg" : 0,
+  "value" : [
+    {
+      "askMoney" : "1",
+      "askTime" : "08-30 17:34",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-30 22:50",
+      "seeMoney" : "1",
+      "seePeople" : "1",
+      "solutionID" : "238",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解答:"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "ff9329",
+          "str" : "贝里"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "ff9329",
+          "str" : " 莫克姆"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "ff9329",
+          "str" : "吉灵汉姆"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "ff9329",
+          "str" : " 卢顿"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "1",
+      "askTime" : "08-30 17:33",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-30 22:50",
+      "seeMoney" : "1",
+      "seePeople" : "1",
+      "solutionID" : "237",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解答:"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "ff9329",
+          "str" : "贝里"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "ff9329",
+          "str" : " 莫克姆"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "ff9329",
+          "str" : "吉灵汉姆"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "ff9329",
+          "str" : " 卢顿"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "1",
+      "askTime" : "08-30 17:22",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-30 22:50",
+      "seeMoney" : "1",
+      "seePeople" : "1",
+      "solutionID" : "236",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解答:"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "ff9329",
+          "str" : "贝里"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "ff9329",
+          "str" : " 莫克姆"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        },
+        {
+          "color" : "ff9329",
+          "str" : "吉灵汉姆"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "ff9329",
+          "str" : " 卢顿"
+        },
+        {
+          "color" : "828282",
+          "str" : "#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-26 15:07",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-26 21:20",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "221",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #苏维埃之翼"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 乌法#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #海登海姆"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 维尔茨堡踢球者#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-26 10:57",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-26 22:20",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "220",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #苏维埃之翼"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 乌法#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #海登海姆"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 维尔茨堡踢球者#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "70",
+      "askTime" : "08-26 10:06",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-26 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "1",
+      "solutionID" : "212",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #皇家贝蒂斯"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 拉科鲁尼亚#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 17:49",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "1",
+      "solutionID" : "209",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #罗森博格"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 奥地利维也纳#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 17:45",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "1",
+      "solutionID" : "208",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #利贝雷茨"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " AEK拉纳卡#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 16:40",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "205",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #利贝雷茨"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " AEK拉纳卡#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 16:28",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 16:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "204",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #札幌冈萨多"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 熊本深红#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #利贝雷茨"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " AEK拉纳卡#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "130",
+      "askTime" : "08-25 16:12",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "1",
+      "solutionID" : "202",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #萨莫拉FC"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 蒙得维的亚漫步者#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #维多利亚"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 科里蒂巴#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #圣米格尔龙"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 萨普里萨#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #库亚巴"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 沙佩科恩斯#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "110",
+      "askTime" : "08-25 15:22",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 16:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "201",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #札幌冈萨多"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 熊本深红#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #卡拉巴赫"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " IFK哥德堡#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 15:09",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 16:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "199",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #札幌冈萨多"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 熊本深红#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 11:36",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "197",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #卡拉巴赫"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " IFK哥德堡#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #利贝雷茨"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " AEK拉纳卡#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "130",
+      "askTime" : "08-25 11:30",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-25 16:50",
+      "seeMoney" : "20",
+      "seePeople" : "1",
+      "solutionID" : "196",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #札幌冈萨多"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 熊本深红#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #卡拉巴赫"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " IFK哥德堡#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #利贝雷茨"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " AEK拉纳卡#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #布隆德比"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 帕纳辛纳科斯#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 10:59",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "193",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #罗森博格"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 奥地利维也纳#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 10:56",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "192",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #罗森博格"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 奥地利维也纳#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 10:48",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "190",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #罗森博格"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 奥地利维也纳#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 10:38",
+      "askUserImg" : "http://60.195.254.26:8083//upload/head/2016/5/26/1464232450249.jpg",
+      "askUserNick" : "外财",
+      "askUserToken" : "dd2ad8a870bdf1ca",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "189",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #罗森博格"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 奥地利维也纳#"
+        }
+      ]
+    },
+    {
+      "askMoney" : "90",
+      "askTime" : "08-25 10:26",
+      "askUserImg" : "http://60.195.254.26:8083//assets/images/user.png",
+      "askUserNick" : "宝宝**",
+      "askUserToken" : "85fa4ad82296f7a8",
+      "deadline" : "2016-08-25 22:50",
+      "seeMoney" : "20",
+      "seePeople" : "0",
+      "solutionID" : "188",
+      "solutionState" : "2",
+      "titleArray" : [
+        {
+          "color" : "333333",
+          "str" : "请专家"
+        },
+        {
+          "color" : "4166ac",
+          "str" : " ma**"
+        },
+        {
+          "color" : "333333",
+          "str" : "解盘："
+        },
+        {
+          "color" : "e64044",
+          "str" : " #草蜢"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 费内巴切#"
+        },
+        {
+          "color" : "e64044",
+          "str" : " #罗森博格"
+        },
+        {
+          "color" : "828282",
+          "str" : " vs"
+        },
+        {
+          "color" : "e64044",
+          "str" : " 奥地利维也纳#"
+        }
+      ]
+    }
+  ]
+}

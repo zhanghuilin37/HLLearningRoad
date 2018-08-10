@@ -1,0 +1,10 @@
+platform:ios,'7.0'
+target 'LearningRoad' do
+pod 'SDWebImage','~>3.8'
+pod 'MJRefresh'
+pod 'AFNetworking', '~> 3.0'
+pod 'ProgressHUD'
+pod 'VGParallaxHeader'
+pod 'TZImagePickerController'
+pod 'YYText'
+end

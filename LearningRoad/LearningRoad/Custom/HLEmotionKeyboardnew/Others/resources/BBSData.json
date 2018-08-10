@@ -1,0 +1,455 @@
+{
+  "className" : "BBSListItem",
+  "errCode" : 0,
+  "errString" : "",
+  "hasNewMsg" : 0,
+  "value" : [
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828780747.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828780747_.jpg"
+        },
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828781070.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828781070_.jpg"
+        },
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828781312.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828781312_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160601-118",
+          "letter" : "#墨西哥 vs 智利   (非让) 胜   #",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/6/2/1464828531463.jpg",
+      "letter" : "#墨西哥 vs 智利   (非让) 胜   # 推荐：主队，信心指数 4星(满分5星) ，交战成绩： 3胜4平2负 （W=胜、D=和、L=负） \r墨西哥近期连战连捷状态十分出色，尤其是连续多场比赛零封对手，看好墨西哥今仗中立场延续佳绩。 ",
+      "name" : "赢盘小哥",
+      "rank" : "100",
+      "readPeople" : "12",
+      "shuoshuoID" : 117,
+      "time" : "06-02 08:53 ",
+      "type" : "2",
+      "userID" : "d412113c72f23ec9"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/6/2/1464828531463.jpg",
+      "letter" : "脸色",
+      "name" : "赢盘小哥",
+      "rank" : "100",
+      "readPeople" : "3",
+      "shuoshuoID" : 147,
+      "time" : "06-06 16:15 ",
+      "type" : "1",
+      "userID" : "d412113c72f23ec9"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/6/3/1464945159268.jpg",
+      "letter" : "堶",
+      "name" : "赢盘小妹",
+      "rank" : "100",
+      "readPeople" : "2",
+      "shuoshuoID" : 148,
+      "time" : "06-06 16:15 ",
+      "type" : "1",
+      "userID" : "f27a56cc4660ac0f"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/3/1464945394046.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/3/1464945394046_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160603-102",
+          "letter" : "#日本 vs 保加利亚   (非让) 平负   #",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/6/3/1464945159268.jpg",
+      "letter" : "#日本 vs 保加利亚   (非让) 平负   # 抗日走起",
+      "name" : "赢盘小妹",
+      "rank" : "100",
+      "readPeople" : "1",
+      "shuoshuoID" : 140,
+      "time" : "06-03 17:16 来自：iPod Touch 5G",
+      "type" : "2",
+      "userID" : "f27a56cc4660ac0f"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828952459.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/2/1464828952459_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160601-119",
+          "letter" : "#波特兰伐木工 vs 圣何塞地震   (非让) 胜   #",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/6/2/1464828531463.jpg",
+      "letter" : "#波特兰伐木工 vs 圣何塞地震   (非让) 胜   # 荐：主队，信心指数 4星(满分5星) ，交战成绩： 4胜3平3负 （W=胜、D=和、L=负） \r双方近6次交手，波特兰伐木者取得4胜1和1负，其中3次主场保持全胜，往绩占据上风，不妨支持波特兰伐木者此番主场告捷。 ",
+      "name" : "赢盘小哥",
+      "rank" : "100",
+      "readPeople" : "3",
+      "shuoshuoID" : 118,
+      "time" : "06-02 08:55 ",
+      "type" : "2",
+      "userID" : "d412113c72f23ec9"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981674072.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981674072_.jpg"
+        },
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981682692.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981682692_.jpg"
+        },
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981708880.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981708880_.jpg"
+        },
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981710936.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/15/1465981710936_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/19/1463651425472.jpg",
+      "letter" : "",
+      "name" : "88**",
+      "rank" : "101",
+      "readPeople" : "0",
+      "shuoshuoID" : 188,
+      "time" : "06-15 17:08 来自：三星 Galaxy S5",
+      "type" : "2",
+      "userID" : "549e1a112d77696a"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/19/1463651425472.jpg",
+      "letter" : "是斤斤计较",
+      "name" : "88**",
+      "rank" : "101",
+      "readPeople" : "0",
+      "shuoshuoID" : 186,
+      "time" : "06-15 16:45 ",
+      "type" : "1",
+      "userID" : "549e1a112d77696a"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/6/14/1465908794014.jpg",
+      "letter" : "哈哈",
+      "name" : "li**",
+      "rank" : "101",
+      "readPeople" : "0",
+      "shuoshuoID" : 185,
+      "time" : "06-15 11:11 来自：iPod Touch 5G",
+      "type" : "1",
+      "userID" : "a0c7bf9bc9b75d33"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/13/1465785349531.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/13/1465785349531_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/4/18/1460969201079.jpg",
+      "letter" : "",
+      "name" : "Zh**",
+      "rank" : "101",
+      "readPeople" : "5",
+      "shuoshuoID" : 184,
+      "time" : "06-13 10:35 来自：iPhone 6s",
+      "type" : "2",
+      "userID" : "42c965ed2e85bddd"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/13/1465784419581.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/13/1465784419581_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//assets/images/user.png",
+      "letter" : "",
+      "name" : "Zh**",
+      "rank" : "0",
+      "readPeople" : "1",
+      "shuoshuoID" : 183,
+      "time" : "06-13 10:20 来自：iPhone 6s",
+      "type" : "2",
+      "userID" : "a15173fb45938f5e"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [
+        {
+          "imgID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/13/1465784146045.jpg",
+          "thumbnailID" : "http://www.yingpanshiji.com//upload/bbs/2016/6/13/1465784146045_.jpg"
+        }
+      ],
+      "iBBSSpecialJump" : [],
+      "imgUrl" : "http://www.yingpanshiji.com//assets/images/user.png",
+      "letter" : "",
+      "name" : "Zh**",
+      "rank" : "0",
+      "readPeople" : "14",
+      "shuoshuoID" : 182,
+      "time" : "06-13 10:15 来自：iPhone 6s",
+      "type" : "2",
+      "userID" : "a15173fb45938f5e"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160608-101",
+          "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平#",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/18/1463572996242.jpg",
+      "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平# ",
+      "name" : "ma**",
+      "rank" : "0",
+      "readPeople" : "0",
+      "shuoshuoID" : 181,
+      "time" : "06-08 17:45 来自：iPhone 6",
+      "type" : "1",
+      "userID" : "ab42f36f6a6562fa"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160608-101",
+          "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平#",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/18/1463572996242.jpg",
+      "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平# ",
+      "name" : "ma**",
+      "rank" : "0",
+      "readPeople" : "0",
+      "shuoshuoID" : 180,
+      "time" : "06-08 17:44 来自：iPhone 6",
+      "type" : "1",
+      "userID" : "ab42f36f6a6562fa"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160608-101",
+          "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平#",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/18/1463572996242.jpg",
+      "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平# ",
+      "name" : "ma**",
+      "rank" : "0",
+      "readPeople" : "0",
+      "shuoshuoID" : 179,
+      "time" : "06-08 17:43 来自：iPhone 6",
+      "type" : "1",
+      "userID" : "ab42f36f6a6562fa"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160608-101",
+          "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 负#",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/18/1463572996242.jpg",
+      "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 负# ",
+      "name" : "ma**",
+      "rank" : "0",
+      "readPeople" : "0",
+      "shuoshuoID" : 178,
+      "time" : "06-08 17:42 来自：iPhone 6",
+      "type" : "1",
+      "userID" : "ab42f36f6a6562fa"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160608-101",
+          "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平#",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/18/1463572996242.jpg",
+      "letter" : "#町田泽维亚 vs 清水鼓动   (非让) 胜平   (让 1) 平# ",
+      "name" : "ma**",
+      "rank" : "0",
+      "readPeople" : "0",
+      "shuoshuoID" : 177,
+      "time" : "06-08 17:41 来自：iPhone 6",
+      "type" : "1",
+      "userID" : "ab42f36f6a6562fa"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "20160608-101",
+          "letter" : "#町田泽维亚vs清水鼓动 (非让)胜平负  (让1)胜平负#",
+          "type" : "2"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//assets/images/user.png",
+      "letter" : "#町田泽维亚vs清水鼓动 (非让)胜平负  (让1)胜平负#",
+      "name" : "还笑**",
+      "rank" : "0",
+      "readPeople" : "0",
+      "shuoshuoID" : 176,
+      "time" : "06-08 11:39 来自：三星 Galaxy S5",
+      "type" : "1",
+      "userID" : "cb2515e273fedf51"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "a0c7bf9bc9b75d33",
+          "letter" : "@likai",
+          "type" : "1"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/19/1463651425472.jpg",
+      "letter" : "@likai [给力]",
+      "name" : "88**",
+      "rank" : "101",
+      "readPeople" : "0",
+      "shuoshuoID" : 175,
+      "time" : "06-08 10:42 来自：酷派8297W",
+      "type" : "1",
+      "userID" : "549e1a112d77696a"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "a0c7bf9bc9b75d33",
+          "letter" : "@likai",
+          "type" : "1"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/19/1463651425472.jpg",
+      "letter" : "@likai [兔子]",
+      "name" : "88**",
+      "rank" : "101",
+      "readPeople" : "0",
+      "shuoshuoID" : 174,
+      "time" : "06-08 10:42 来自：酷派8297W",
+      "type" : "1",
+      "userID" : "549e1a112d77696a"
+    },
+    {
+      "errCode" : 0,
+      "errString" : "",
+      "hasNewMsg" : 0,
+      "iBBSImage" : [],
+      "iBBSSpecialJump" : [
+        {
+          "jumpID" : "a0c7bf9bc9b75d33",
+          "letter" : "@likai",
+          "type" : "1"
+        }
+      ],
+      "imgUrl" : "http://www.yingpanshiji.com//upload/head/2016/5/19/1463651425472.jpg",
+      "letter" : "@likai [给力]",
+      "name" : "88**",
+      "rank" : "101",
+      "readPeople" : "0",
+      "shuoshuoID" : 173,
+      "time" : "06-08 10:39 来自：酷派8297W",
+      "type" : "1",
+      "userID" : "549e1a112d77696a"
+    }
+  ]
+}
