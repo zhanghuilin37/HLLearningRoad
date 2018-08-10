@@ -198,6 +198,7 @@
 		6A54BDBD21198E4400900C43 /* PhotoWall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoWall.h; sourceTree = "<group>"; };
 		6A54BDC121198E5A00900C43 /* PhotoWallCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoWallCollectionViewCell.m; sourceTree = "<group>"; };
 		6A54BDC221198E5B00900C43 /* PhotoWallCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoWallCollectionViewCell.h; sourceTree = "<group>"; };
+		6AB06660211D8C140075EFDA /* LearningRoad.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LearningRoad.pch; sourceTree = "<group>"; };
 		86789823F962D715FFFEDC29 /* libPods-LearningRoad.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LearningRoad.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA3529ADD68A2E7AC85EDFFB /* Pods-LearningRoad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LearningRoad.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LearningRoad/Pods-LearningRoad.debug.xcconfig"; sourceTree = "<group>"; };
 		D58979AA1F34082A009A1D78 /* ScrollViewSegmentControlCtrl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollViewSegmentControlCtrl.h; sourceTree = "<group>"; };
@@ -555,6 +556,7 @@
 		D5A56ACD1EDFFE93007C3298 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6AB06660211D8C140075EFDA /* LearningRoad.pch */,
 				D5A56ACE1EDFFE93007C3298 /* main.m */,
 			);
 			name = "Supporting Files";
